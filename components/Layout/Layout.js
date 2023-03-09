@@ -13,17 +13,17 @@ const Layout = ({ children, connectWallet }) => {
   return (
     <>
       <Head>
-        <title>WaveDAOs</title>
+        <title>BreakerDAO</title>
         <meta
           name="description"
-          content="WavesDaos is bringing off-chain voting to the Waves DAO ecosystem by building with the design patterns used by popular DAO systems such as snapshots and XDAO"
+          content="BreakerDAO is bringing off-chain voting to the Waves DAO ecosystem by building with the design patterns used by popular DAO systems such as snapshots and XDAO"
         />
         <meta name="keywords" content="Waves, DAO, Snapshot, XDAO, Dorahacks" />
-        <meta property="og:title" content="WaveDAOs" />
-        <meta property="og:image" content="https://www.wavedoas.com/no-money-in-wallet.svg" />
+        <meta property="og:title" content="BreakerDAO" />
+        <meta property="og:image" content="no-money-in-wallet.svg" />
         <meta property="og:image:width" content="200" />
         <meta property="og:image:height" content="200" />
-        <meta property="og:site_name" content="WaveDAOs" />
+        <meta property="og:site_name" content="BreakerDAO" />
         <meta content="summary_large_image" name="twitter:card" />
         <meta property="og:type" content="website" />
         <link rel="icon" href="./favicon.png" />
